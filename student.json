@@ -1,0 +1,35 @@
+[
+    {
+        "name": "TUng",
+        "family": "Nguyen",
+        "age": 18,
+        "scores": [10, 9, 8],
+        "birth": {
+            "year": 2008,
+            "month": 11,
+            "day": 1
+        }
+    },
+    {
+        "name": "Binh",
+        "family": "Hoang Duong",
+        "age": 20,
+        "scores": [8, 7, 9, 10],
+        "birth": {
+            "year": 2006,
+            "month": 3,
+            "day": 15
+        }
+    },
+    {
+        "name": "Hoa",
+        "family": "Tran Thi",
+        "age": 19,
+        "scores": [7, 8, 6, 9, 8],
+        "birth": {
+            "year": 2007,
+            "month": 7,
+            "day": 22
+        }
+    }
+]
